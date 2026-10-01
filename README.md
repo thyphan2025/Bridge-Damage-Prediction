@@ -70,7 +70,8 @@ Deck_Area_sqft and Average_Daily_Traffic have a moderate positive correlation (0
 
 # Conclusion
 
-Based on accuracy and F1-score, Random Forest and Decision Tree models are the most effective for predicting bridge conditions in this dataset. Bridge_Age consistently emerges as the most influential feature across these models. Naive Bayes performed poorly, likely due to its strong assumption of feature independence not holding true for this dataset. KNN showed acceptable but not leading performance. Future work could involve hyperparameter tuning for the top-performing models or exploring more advanced ensemble methods.
-Colab paid products
--
+Based on accuracy and F1-score, Random Forest and Decision Tree models are the most effective for predicting bridge conditions in this dataset. 
+Bridge_Age consistently emerges as the most influential feature across these models. 
+Naive Bayes performed poorly, likely due to its strong assumption of feature independence not holding true for this dataset. KNN showed acceptable but not leading performance. Future work could involve hyperparameter tuning for the top-performing models or exploring more advanced ensemble methods.
+
 
